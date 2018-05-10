@@ -3,7 +3,9 @@ A pool of ideas for the article
 
 ## Javascript
 Javascript与柯里化
+
 基于Xpath的元素标识和查找
+
 ecmascript6常用指南
 
 ## CSS
@@ -21,4 +23,7 @@ Vsuite,一款基于vue.js的简单易用 UI组件库
 
 ## tools
 弃繁就简，用standard替代繁杂的eslint
+
 IcoMoon，定制属于你自己的字体图标库
+
+canvas2image, 从canvas到image中的魔法细节
