@@ -24,6 +24,11 @@ Nuxt.js 优雅同构你的vue项目
 ## Java
 从JVM工作过程看代码执行
 
+## Server
+玩转服务端：手把手搭建阿里云Node服务
+
+玩转服务端：从零开始搭建Nginx服务
+
 ## tools
 弃繁就简，用standard替代繁杂的eslint
 
