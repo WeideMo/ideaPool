@@ -18,6 +18,8 @@ Vsuite,一款基于vue.js的简单易用 UI组件库
 
 Nuxt.js 优雅同构你的vue项目
 
+Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截， route-verify，modules划分，router-view划分， meta元信息应用。）
+
 ## Node
 基于socket.io实现一个快速截图显示功能
 
@@ -28,6 +30,7 @@ Nuxt.js 优雅同构你的vue项目
 玩转服务端：手把手搭建阿里云Node服务
 
 玩转服务端：从零开始搭建Nginx服务
+
 
 ## tools
 弃繁就简，用standard替代繁杂的eslint
