@@ -26,6 +26,8 @@ Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截�
 ## Java
 从JVM工作过程看代码执行
 
+重拾Java：图解Idea搭建SSM（Spring、SpringMVC、Mybatis）全流程
+
 ## Server
 玩转服务端：手把手搭建阿里云Node服务
 
