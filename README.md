@@ -20,6 +20,8 @@ Nuxt.js 优雅同构你的vue项目
 
 Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截， route-verify，modules划分，router-view划分， meta元信息应用。）
 
+简单几步，优化你的Vue开发体验
+
 ## Node
 基于socket.io实现一个快速截图显示功能
 
@@ -32,6 +34,8 @@ Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截�
 玩转服务端：手把手搭建阿里云Node服务
 
 玩转服务端：从零开始搭建Nginx服务
+
+玩转服务端：简单利用DNSmasq构建域名解析服务（Dnsmasq.conf\ resolv.conf）
 
 
 ## tools
