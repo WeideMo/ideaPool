@@ -33,7 +33,7 @@ Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截�
 ## Server
 玩转服务端：手把手搭建阿里云Node服务
 
-玩转服务端：从零开始搭建Nginx服务
+玩转服务端：从零开始搭建Nginx服务（配置静态资源、转发、URL中文404问题）
 
 玩转服务端：简单利用DNSmasq构建域名解析服务（Dnsmasq.conf\ resolv.conf）
 
