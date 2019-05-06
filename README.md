@@ -12,15 +12,17 @@ ecmascript6常用指南
 使用CSS实现一个立方体，了解变形及观察原理
 
 ## Vue
-漫谈Vue组件通讯方式
+~~漫谈Vue组件通讯方式~~
 
 Vsuite,一款基于vue.js的简单易用 UI组件库
 
 Nuxt.js 优雅同构你的vue项目
 
-Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截， route-verify，modules划分，router-view划分， meta元信息应用。）
+~~Vue实战：简单几步，优化你的开发体验与效率 （工具篇）~~
 
-简单几步，优化你的Vue开发体验
+Vue实战：一（大口）气上手及配置抽象的 vue-cli3 脚手架项目
+
+Vue实战：Vue-router 实战指南（vue-router/锚点的坑，请求拦截、响应拦截， route-verify，modules划分，router-view划分， meta元信息应用。）
 
 ## Node
 基于socket.io实现一个快速截图显示功能
