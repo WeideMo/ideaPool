@@ -32,6 +32,13 @@ Vue实战：Vue-router 实战指南（vue-router/锚点的坑，请求拦截、�
 
 重拾Java：图解Idea搭建SSM（Spring、SpringMVC、Mybatis）全流程
 
+## Spring boot
+Spring boot食用指南（一）：Spring boot项目的创建与启动
+
+Spring boot食用指南（二）：Web入门应知应会
+
+Spring boot食用指南（三）：用mybatis优雅地CURD
+
 ## Server
 玩转服务端：手把手搭建阿里云Node服务
 
