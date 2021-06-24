@@ -48,6 +48,12 @@ Spring boot食用指南（三）：用mybatis优雅地CURD
 
 玩转服务端：简单利用DNSmasq构建域名解析服务（Dnsmasq.conf\ resolv.conf）
 
+## Linux
+Linux玩家：基本操作入门
+
+Linux玩家：文件处理入门
+
+Linux玩家：文件处理进阶：Awk大杀器
 
 ## tools
 弃繁就简，用standard替代繁杂的eslint
