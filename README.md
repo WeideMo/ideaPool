@@ -6,7 +6,9 @@ Javascript与柯里化
 
 基于Xpath的元素标识和查找
 
-ecmascript6常用指南
+Typescript学习：增量式学习Typescript
+
+~~ecmascript6常用指南
 
 ## CSS
 使用CSS实现一个立方体，了解变形及观察原理
