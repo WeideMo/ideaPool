@@ -44,16 +44,22 @@ Spring boot食用指南（三）：用mybatis优雅地CURD
 ## Server
 玩转服务端：手把手搭建阿里云Node服务
 
-玩转服务端：从零开始搭建Nginx服务（配置静态资源、转发、URL中文404问题）
+~~玩转服务端：从零开始搭建Nginx服务（配置静态资源、转发、URL中文404问题）~~
 
 玩转服务端：简单利用DNSmasq构建域名解析服务（Dnsmasq.conf\ resolv.conf）
 
-## Linux
-Linux玩家：基本操作入门
+# Nginx
+Nginx起步篇：从零开始搭建Nginx服务
 
-Linux玩家：文件处理入门
+Nginx常用篇：Nginx实用功能概述
 
-Linux玩家：文件处理进阶：Awk大杀器
+Nginx进阶篇：Location匹配规则细说
+
+# Openresty
+Openresty学习：Lua语法基础学习
+
+Openresty学习：实现高性能Api采集服务
+
 
 ## tools
 弃繁就简，用standard替代繁杂的eslint
